@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Abhi, an undergraduate Computer Science at Bowdoin College. Over the past three years, I've developed a passion for coding and creating projects that combine new things I've learned with other passions in my life. 
+Hi! I'm Abhi, an undergraduate Computer Science at Bowdoin College. Over the past three years, I've developed a passion for coding and creating projects that combine new things I've learned with other passions in my life. Besides coding, I am a competitive squash player, so when I'm not at my desk I can probably be found at the nearest squash courts playing!
 
 
 ## 🌐 Socials:
